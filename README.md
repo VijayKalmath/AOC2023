@@ -5,6 +5,7 @@ Advent of Code is an Advent calendar of small programming puzzles for various sk
 
 Fun coding exercise! 
 
+```
 Personal Timing Board : 
 
       --------Part 1--------   --------Part 2--------
@@ -16,3 +17,4 @@ Day       Time   Rank  Score       Time   Rank  Score
   3   00:58:34   6712      0   01:08:09   5015      0
   2   01:25:16  13842      0   01:29:12  12806      0
   1   00:03:16    856      0   00:11:53    565      0
+```
